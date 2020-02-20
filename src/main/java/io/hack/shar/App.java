@@ -18,8 +18,8 @@ public class App {
      //   $(By.cssSelector("#content > div > div.App__body.H\\(100\\%\\).Pos\\(r\\).Z\\(0\\) > div > main > div.H\\(100\\%\\) > div > div > header > div.Expand.D\\(f\\).Ai\\(c\\).Jc\\(sb\\).BdB.Trsp\\(\\$border-color\\).Trstf\\(l\\).Bdc\\(t\\).Trsdu\\(0ms\\) > div.H\\(100\\%\\).D\\(f\\).Ai\\(c\\) > div > button > span")).click();
      //   $(By.cssSelector("#modal-manager > div > div > div > div > div:nth-child(4) > div:nth-child(2) > button > span")).click();
         open("https://www.facebook.com/");
-        $(By.cssSelector("#email")).setValue("stcon@mail.ru");
-        $(By.cssSelector("#pass")).setValue("hasoru71");
+        $(By.cssSelector("#email")).setValue("************");
+        $(By.cssSelector("#pass")).setValue("******");
         $(By.cssSelector("#u_0_b")).click();
         open("https://tinder.com");
         $(By.cssSelector("#content > div > div.App__body.H\\(100\\%\\).Pos\\(r\\).Z\\(0\\) > div > main > div.H\\(100\\%\\) > div > div > header > div.Expand.D\\(f\\).Ai\\(c\\).Jc\\(sb\\).BdB.Trsp\\(\\$border-color\\).Trstf\\(l\\).Bdc\\(t\\).Trsdu\\(0ms\\) > div.H\\(100\\%\\).D\\(f\\).Ai\\(c\\) > div > button > span")).click();
